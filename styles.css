@@ -1,0 +1,13 @@
+.container ul {
+    background-color: #4d4d4d;
+    color: white;
+    padding: 0;
+    margin: 0;
+    margin-bottom: 25px;
+    width:100%;
+}
+
+.front-page h2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
