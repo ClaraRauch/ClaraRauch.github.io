@@ -11,3 +11,17 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+
+.container-header {
+    background-color: lightgrey;
+    padding: 15px;
+}
+
+.front-page img {
+    height: 455.28px;
+    width: 682.94px;
+}
+
+.front-page h2 {
+    display: grid;
+}
